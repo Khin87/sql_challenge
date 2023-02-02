@@ -3,7 +3,9 @@
 
 The major task of this assignment is to do a research about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files. 
 
-ThLis Challenge is divided into three parts - data modelling, data engineering, and data analysis Modelling 
+ThLis Challenge is divided into three parts - data modelling, data engineering, and data analysis 
+
+Data Modelling 
 Drawn ERD and shown the relationship betweeen the data of each departments of csv files.
 
 Data Engineering 
