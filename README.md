@@ -6,10 +6,10 @@ The major task of this assignment is to do a research about people whom the comp
 ThLis Challenge is divided into three parts - data modelling, data engineering, and data analysis 
 
 Data Modelling 
-Drawn ERD and shown the relationship betweeen the data of each departments of csv files.
+- Drawn ERD and shown the relationship betweeen the data of each departments of csv files.
 
 Data Engineering 
-Created the table shcema of the six csv files and imported each CSV file into the corresponding SQL table.
+- Created the table shcema of the six csv files and imported each CSV file into the corresponding SQL table.
 
 Data Analysis - analysed the eight queries as required. 
 1. Listed the following details of each employee: employee number, last name, first name, sex, and salary.
